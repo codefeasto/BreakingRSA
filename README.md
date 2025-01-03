@@ -20,7 +20,7 @@ When first creating this project in late 2023, my goal was to get a better grasp
 ## Some interesting RSA problems
 
 1. ECCRSA (TU Delft CTF 2024)
-2. krsa (integrity rsa 2024)
+2. krsa (Intigriti CTF 2024)
 3. Redundancy (vsCTF 2023)
 4. RSA se olous RSei (NTUAH4CK 3.0)
 5. RSA-2024 (imaginaryCTF monthly - Round 42)
