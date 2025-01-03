@@ -3,7 +3,7 @@ This repository contains implementations to the attacks described in the infamou
 
 The primary language of choice is python with a SageMath 10.2 kernel.
 
-# Twenty Years of Attacks on the RSA Cryptosystem
+## Twenty Years of Attacks on the RSA Cryptosystem
 
 1. Recovering $p,q$ having $d$
 2. Binding
@@ -13,7 +13,7 @@ The primary language of choice is python with a SageMath 10.2 kernel.
 6. Wiener's attack
 7. Coppersmith's Attack (LLL) on a partially known message
 
-# Some interesting RSA problems
+## Some interesting RSA problems
 
 1. ECCRSA (TU Delft CTF 2024)
 2. krsa (integrity rsa 2024)
