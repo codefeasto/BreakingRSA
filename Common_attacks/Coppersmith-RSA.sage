@@ -50,7 +50,6 @@ B = matrix(ZZ, [
 ])
 
 
-print('dd')
 B = B.LLL()
 
 coefs = B.rows()[0]

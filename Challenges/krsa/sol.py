@@ -34,4 +34,3 @@ def attempt():
 
 while True:
     attempt()
-# INTIGRITI{w3_sh0uld_m33t_1n_th3_m1ddl3}
