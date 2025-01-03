@@ -1,0 +1,2 @@
+# small_eqs (0xL4ugh CTF 2024)
+This challenge uses an unorthodox method for generating 2 out of the 3 primes used to compose the public modulus of this multiprime RSA instance. By abusing the relation between the 2 primes we cam bruteforcing the unknown of small size and find a multiple of a divisor of the order of the quotient ring F_x^2/(some random polynomial). We can then raise a random element to that value and get a multiple of one of the primes. From there, caclulating the other 2 primes and decrypting the message is trivial.

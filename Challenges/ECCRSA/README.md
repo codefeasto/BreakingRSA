@@ -1,0 +1,2 @@
+# ECCRSA (TU Delft CTF 2024)
+A custom cryptosystem is implemented. It attempts to combine RSA and Elliptic Curve Cryptography. By utilizing the standard addition formulas on Elliptic Curves, we manage to solve for all our unknowns and break the scheme.

@@ -1,0 +1,2 @@
+# RSATogether (ECSC 2024 jeopardy)
+The setting of this challenge involves an RSA secret that is "Shamir-Secret-Shared" among many participants. A slight mistake in the implementation of the secret sharing allows the attacker to use a polynomial of degree smaller than the amount of shares they're given. This in turn enables them to recover the secret using some clever linear algebra and undo the RSA encryption.

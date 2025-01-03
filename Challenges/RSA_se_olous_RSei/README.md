@@ -1,0 +1,2 @@
+# RSA se olous RSei (NTUAH4CK 3.0)
+This RSA challenge combines an unconventinal method of encoding messages as integers, as well as using a small public exponent (e = 3). To attack it, the RSA homomorphic properties are leveraged, in combination with known properties of the plaintext format. This enables a small public exponent attack to be mounted on the encrypted message, recovering it with minimal bruteforce.
