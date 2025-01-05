@@ -1,3 +1,4 @@
+# Breaking RSA
 
 This repository contains implementations of the attacks described in Dan Boneh's paper, [Twenty Years of Attacks on the RSA Cryptosystem](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf), along with a collection of interesting RSA problems that I have gathered over the years through contests and learning sessions. 
 
@@ -6,6 +7,23 @@ The primary language of choice is python, with a SageMath 10.2 kernel.
 
 
 When I first started this project in late 2023, my goal was to gain a deeper understanding of the RSA cryptosystem, and explore some of the cases that compromise security (even though I follow through with their respective proofs). Although fascinating, provable security, is out of the scope of this project. Instead, my focus was on developing a practical understanding of RSA and becoming familiar with SageMath for cybersecurity Capture The Flag (CTF) competitions. For this reason, I have implemented various fundamental algorithms from their mathematical outline which are already present in the SageMath API. 
+
+## How to Install SageMath?
+
+https://doc.sagemath.org/html/en/installation/index.html
+
+## How Does It Work?
+
+For jupyter notebooks:
+```bash
+sage -n jupyter 
+```
+
+For `.sage` files:
+```bash
+sage < file >
+```
+
 
 ## Twenty Years of Attacks on the RSA Cryptosystem
 
