@@ -26,3 +26,4 @@ When I first started this project in late 2023, my goal was to gain a deeper und
 5. RSA-2024 (imaginaryCTF monthly - Round 42)
 6. RSATogether (ECSC 2024)
 7. small eqs (0xL4ugh 2024)
+8. QRSA (Grey Cat The Flag 2023)
